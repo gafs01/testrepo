@@ -4,7 +4,7 @@ class testrepo  {
 }
 
 } else {
-       notify  {*default-message' :
+       notify  {'default-message' :
            message =>  "This is not production"
 
   }
